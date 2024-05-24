@@ -1,7 +1,7 @@
-# Dinic's Algorithm
+# Dinic's Algorithm (Камиль Тукаев 108)
 
-This repository contains an implementation of Dinic's Algorithm, a powerful algorithm for finding the maximum flow in a flow network. The maximum flow problem is fundamental in various domains such as transportation, computer networking, and logistics.
+Этот репозиторий содержит реализацию алгоритма Диника, для нахождения максимального потока в сети потоков. 
 
 ## Overview
 
-Dinic's Algorithm is an efficient method for solving the maximum flow problem in a directed graph. It builds upon the Ford-Fulkerson method but improves its time complexity to O(V^2 * E) in general graphs and O(E * sqrt(V)) in graphs with unit capacities. 
+Алгоритм Диника - это эффективный метод решения задачи максимального потока в направленном графе. Оставил комментарии в коде, поясняющие тот или иной блок(или строку) в программе
